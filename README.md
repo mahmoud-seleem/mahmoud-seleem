@@ -32,4 +32,3 @@ Fresh Graduate Systems and Biomedical Engineer
 
 <a href="http://www.github.com/mahmoud-seleem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-seleem&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/mahmoud-seleem"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahmoud-seleem&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
