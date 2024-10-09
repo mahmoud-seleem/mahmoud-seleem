@@ -1,7 +1,7 @@
 Hi 👋 My name is Mahmoud Seleem
 ===============================
 
-Fresh Graduate Systems and Biomedical Engineer
+Software Engineer |Systems and Biomedical Engineer
 ----------------------------------------------
 
 * I graduated from the Faculty of Engineering at Cairo University in 2023 with a very good overall grade, and an A+ for my graduation project.
