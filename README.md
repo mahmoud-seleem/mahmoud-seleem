@@ -25,7 +25,7 @@ Software Engineer | Systems and Biomedical Engineer
 
 ## Connect with me:
 
-<div align="left"><a href="mailto:mahmoudsaleem522@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;<a href="https://www.linkedin.com/in/mahmoud-seleem/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;<a href="https://wa.me/+201115264849"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+<div align="left"><a href="mailto:mahmoudsaleem522@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;<a href="https://www.linkedin.com/in/mahmoud-seleem/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;<a href="https://wa.me/+201061424231"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </div>
 
 
