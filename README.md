@@ -36,6 +36,4 @@ Software Engineer | Systems and Biomedical Engineer
 
 <a href="http://www.github.com/mahmoud-seleem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-seleem&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a></div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mahmoud-seleem)](https://git.io/streak-stats)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-seleem&bg_color=000000&color=ffffff&line=22c55e&point=00f05c&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
