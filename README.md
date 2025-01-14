@@ -3,7 +3,7 @@ Hi 👋 My name is Mahmoud Seleem
 
 Software Engineer | Systems and Biomedical Engineer
 ----------------------------------------------
-
+* I'm currently working as a software quality assurance engineer at Inspire For Solutions Development . 
 * I graduated from the Faculty of Engineering at Cairo University in 2023 with a very good overall grade, and an A+ for my graduation project.
 * During my time at university I studied a lot of topics about software fundamentals such as OOP, DSA, Databases, and many more
 
